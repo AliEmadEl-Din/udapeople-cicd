@@ -210,7 +210,7 @@ jobs:
       - image: cimg/node:13.8.0
     steps:
       - checkout
-      - install aws_cli
+      - install_awscli
       - run:
           name: Run migrations
           command: |
