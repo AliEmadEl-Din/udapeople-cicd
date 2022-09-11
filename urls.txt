@@ -1,0 +1,5 @@
+[URL01]: https://github.com/AliEmadEl-Din/udapeople-cicd
+[URL02]: http://udapeople-cb7315e.s3-website-us-east-1.amazonaws.com
+[URL03]: http://d1m7ivt52u0vb.cloudfront.net
+[URL04]: ec2-44-208-245-86.compute-1.amazonaws.com	
+[URL05]: ec2-3-89-26-172.compute-1.amazonaws.com
